@@ -1,0 +1,8 @@
+{
+  "name": "reimagined-succotash",
+  "private": true,
+  "description": "ローマ字タイピングゲーム",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
